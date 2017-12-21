@@ -1,4 +1,4 @@
-public class OperacoesSring{
+private class OperacoesSring{
 	String concatenar(String a, String b){
 		a += b;
 		return a;
